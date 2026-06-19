@@ -1,0 +1,7 @@
+# Core simulation: stdlib only, no dependencies.
+
+# 3D voxel renderer (run game.py locally):
+ursina>=7.0.0
+
+# LLM brain (the Lili swap, brains/llm_brain_template.py):
+anthropic>=0.40.0
